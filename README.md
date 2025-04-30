@@ -38,15 +38,6 @@ The workflow of **AutoGradeMailer.ipynb** is as follows:
 
 ---
 
-## 📦 Dependencies
-
-To run this project, make sure to install the following dependencies:
-
-```bash
-pip install pandas docxtpl
-
----
-
 ## 📂 Project Files
 - AutoGradeMailer.ipynb → Jupyter notebook containing the full report generation workflow.
 
