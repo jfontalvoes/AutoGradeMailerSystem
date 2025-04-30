@@ -46,6 +46,7 @@ To run this project, make sure to install the following dependencies:
 pip install pandas docxtpl
 
 ---
+
 (Note: This notebook does not send emails. It only generates the report documents.)
 
 
