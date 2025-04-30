@@ -48,14 +48,14 @@ pip install pandas docxtpl
 
 (Note: This notebook does not send emails. It only generates the report documents.)
 
-📂 Project Files
+##📂 Project Files
 - AutoGradeMailer.ipynb → Jupyter notebook containing the full report generation workflow.
 
 - StudentGrades.xlsx → Excel file listing students and their grades.
 
 - template.docx → Word template used for generating personalized reports.
 
-🚀 Usage
+##🚀 Usage
 1. Clone this repository.
 
 2. Install the required dependencies.
@@ -66,17 +66,16 @@ pip install pandas docxtpl
 
 5. Check the output folder for the generated Word reports.
 
-📌 Notes
+##📌 Notes
 - This notebook does not send emails. It only generates the personalized Word documents, which can later be sent manually or using a separate email-sending tool.
 
 - You can customize the Word template content and destination folder names to suit your needs.
 
-📜 License
+##📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-✨ Author
+##✨ Author
 Developed by Jonathan Estiven Fontalvo Aparicio 📧
-
 
 Feel free to copy this into your repo. If you’d like a `.gitignore` template (e.g., to ignore `*.ipynb_checkpoints/` and your generated reports), just let me know!
 
