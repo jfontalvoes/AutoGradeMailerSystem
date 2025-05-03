@@ -75,5 +75,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## ✨ Author
 Developed by Jonathan Estiven Fontalvo Aparicio 📧
 
-Feel free to copy this into your repo. If you’d like a `.gitignore` template (e.g., to ignore `*.ipynb_checkpoints/` and your generated reports), just let me know!
+Feel free to copy this into your repo. If you'd like to contribute or help, just let me know!
 
